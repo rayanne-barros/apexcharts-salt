@@ -1,0 +1,30 @@
+.cabecalho{
+  background: #CEC6CE;
+  position: absolute;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10%;
+}
+
+.conteudo{
+  position: relative;
+  top: 60px; 
+  /* display: block;
+  width: 100%;  */
+  margin-left: 10px;
+}
+
+.titulo {
+  font-size: 28px;
+  color: #5D405C;
+  margin-bottom: 0px;
+}
+
+.paragrafo {
+  font-size: 14px;
+  color: #828282;
+  margin-top: 5px;
+  margin-bottom: 100px;
+}

@@ -39,4 +39,7 @@ yarn dev
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>   </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  </p>
 <br>
 
+## Deploy do projeto:
+<a href="https://apexcharts-salt.vercel.app/" target="_blank" rel="noopener noreferrer" title="ApexCharts"><img src="https://i.postimg.cc/V6wkvDJJ/apexcharts.png" alt="Imagem do Projeto" width="800" height=""/></a>
+
 

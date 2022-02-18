@@ -1,5 +1,6 @@
 import React from 'react';
 import './Content.css';
+import FilterAltIcon from '@mui/icons-material/FilterAlt';
 
 function Content() {
   return (
@@ -7,8 +8,12 @@ function Content() {
       <header className="cabecalho" />
       <div className="conteudo">
         <h1 className="titulo">Dashboard</h1>
-        <p className="paragrafo">Desafio Técnico Frontend</p>
+        <button type="button" className="button">
+          <FilterAltIcon size="small" color="tertiary" />
+          Filtrar
+        </button>
       </div>
+      <p className="paragrafo">Desafio Técnico Frontend</p>
     </>
   );
 }

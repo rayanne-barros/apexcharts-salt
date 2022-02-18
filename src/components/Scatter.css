@@ -1,4 +1,5 @@
 .scatter {
   display: inline-block;
   width: 48%;  
+  margin-left: 20px;
 }

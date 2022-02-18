@@ -11,9 +11,7 @@
 .conteudo{
   position: relative;
   top: 60px; 
-  /* display: block;
-  width: 100%;  */
-  margin-left: 10px;
+  margin-left: 28px;
 }
 
 .titulo {

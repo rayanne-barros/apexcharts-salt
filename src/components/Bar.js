@@ -45,12 +45,6 @@ class Bar extends Component {
           },
         },
         colors: ['#E91E63'],
-        customIcons: [{
-          icon: '<img src="/img/icone-de-informacao.png" width="20">',
-          index: 4,
-          title: 'tooltip of the icon',
-          class: 'custom-icon',
-        }],
       },
     };
   }
@@ -58,7 +52,7 @@ class Bar extends Component {
   render() {
     return (
       <div className="bar">
-        <Chart options={this.state.options} series={this.state.series} type="bar" width="500" />
+        <Chart options={this.state.options} series={this.state.series} type="bar" width="630" />
       </div>
     );
   }

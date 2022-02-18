@@ -1,5 +1,5 @@
 .cabecalho{
-  background: #CEC6CE;
+  background: #b188af;
   position: absolute;
   margin: 0;
   top: 0;
@@ -12,6 +12,9 @@
   position: relative;
   top: 60px; 
   margin-left: 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .titulo {
@@ -20,9 +23,25 @@
   margin-bottom: 0px;
 }
 
+.button {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  /* margin-right: 24px;
+  margin-top: 20px;  */
+  margin: 25px 35px 0px 0px;
+  border-radius: 8px;
+  background: #5D405C;
+  height: 40px;
+  width: 100px;
+  border: none;
+  justify-content: space-around;
+  color:#F7F7F7;
+  font-family: 'Montserrat', monospace;
+}
+
 .paragrafo {
   font-size: 14px;
   color: #828282;
-  margin-top: 5px;
-  margin-bottom: 100px;
+  margin: 60px 0 50px 28px;
 }
